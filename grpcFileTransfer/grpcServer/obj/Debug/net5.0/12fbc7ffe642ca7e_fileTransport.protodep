@@ -1,0 +1,3 @@
+obj\Debug\net5.0\Protos/FileTransport.cs \
+obj\Debug\net5.0\Protos/FileTransportGrpc.cs: C:/Users/harmonyerp/.nuget/packages/grpc.tools/2.34.0/build/native/include/google/protobuf/empty.proto\
+ Protos/fileTransport.proto

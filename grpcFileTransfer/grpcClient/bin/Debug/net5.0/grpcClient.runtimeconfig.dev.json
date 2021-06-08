@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\harmonyerp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\harmonyerp\\.nuget\\packages"
+    ]
+  }
+}

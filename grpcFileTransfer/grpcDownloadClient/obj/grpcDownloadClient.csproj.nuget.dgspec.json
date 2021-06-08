@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\harmonyerp\\Desktop\\grpcFileTransfer\\grpcDownloadClient\\grpcDownloadClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\harmonyerp\\Desktop\\grpcFileTransfer\\grpcDownloadClient\\grpcDownloadClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\harmonyerp\\Desktop\\grpcFileTransfer\\grpcDownloadClient\\grpcDownloadClient.csproj",
+        "projectName": "grpcDownloadClient",
+        "projectPath": "C:\\Users\\harmonyerp\\Desktop\\grpcFileTransfer\\grpcDownloadClient\\grpcDownloadClient.csproj",
+        "packagesPath": "C:\\Users\\harmonyerp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harmonyerp\\Desktop\\grpcFileTransfer\\grpcDownloadClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\harmonyerp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.17.2, )"
+            },
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.37.0, )"
+            },
+            "Grpc.Tools": {
+              "target": "Package",
+              "version": "[2.38.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
