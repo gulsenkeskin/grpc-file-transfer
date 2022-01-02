@@ -1,2 +1,1 @@
-# grpcFileTransfer
- gRPC ile File Transfer
+# grpc kullanarak file transfer yapımı
