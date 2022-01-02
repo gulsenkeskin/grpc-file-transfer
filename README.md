@@ -1,1 +1,1 @@
-# grpc kullanarak file transfer yapımı
+# making a file transfer using grpc
